@@ -1,0 +1,8 @@
+vpc_cidr = "10.0.0.0/16"
+region = "ap-south-1"
+web_ami = "ami-0e35ddab05955cf57"
+app_ami = "ami-0e35ddab05955cf57"
+web_instance_type = "t2.micro"
+app_instance_type = "t2.micro"
+db_username = "admin"
+db_password = "Pass$123"   
